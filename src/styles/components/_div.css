@@ -1,3 +1,10 @@
-.div--button {
+.div--buttons {
   display: flex;
+  margin: var(--margin-10);
+}
+
+.div--inputs {
+  display: flex;
+  align-items: flex-end;
+  margin: var(--margin-10);
 }

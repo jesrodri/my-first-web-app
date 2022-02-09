@@ -4,9 +4,9 @@
   font-weight: var(--font-weight-500);
   font-size: var(--text-font-size);
   color: var(--black);
-  letter-spacing: var(--default-letter-spacing);
+  letter-spacing: var(--letter-spacing-2);
   text-transform: uppercase;
-  background-color: var(--white);
+  background-color: var(--gray);
   margin: var(--margin-5);
   padding: var(--padding-8-25);
   border-width: var(--width-3);
@@ -21,7 +21,7 @@
   font-weight: var(--font-weight-500);
   font-size: var(--text-font-size);
   color: var(--black);
-  letter-spacing: var(--default-letter-spacing);
+  letter-spacing: var(--letter-spacing-2);
   text-transform: uppercase;
   background-color: var(--yellow-100);
   margin: var(--margin-5);
@@ -38,7 +38,7 @@
   font-weight: var(--font-weight-500);
   font-size: var(--text-font-size);
   color: var(--black);
-  letter-spacing: var(--default-letter-spacing);
+  letter-spacing: var(--letter-spacing-2);
   text-transform: uppercase;
   background-color: var(--yellow-200);
   margin: var(--margin-5);
@@ -55,7 +55,7 @@
   font-weight: var(--font-weight-500);
   font-size: var(--text-font-size);
   color: var(--black);
-  letter-spacing: var(--default-letter-spacing);
+  letter-spacing: var(--letter-spacing-2);
   text-transform: uppercase;
   background-color: var(--yellow-100);
   margin: var(--margin-5);
@@ -73,9 +73,9 @@
   font-weight: var(--font-weight-500);
   font-size: var(--text-font-size);
   color: var(--black);
-  letter-spacing: var(--default-letter-spacing);
+  letter-spacing: var(--letter-spacing-2);
   text-transform: uppercase;
-  background-color: var(--white);
+  background-color: var(--gray);
   margin: var(--margin-5);
   padding: var(--padding-8-25);
   border-width: var(--width-3);
@@ -90,7 +90,7 @@
   font-weight: var(--font-weight-500);
   font-size: var(--text-font-size);
   color: var(--black);
-  letter-spacing: var(--default-letter-spacing);
+  letter-spacing: var(--letter-spacing-2);
   text-transform: uppercase;
   background-color: var(--blue-100);
   margin: var(--margin-5);
@@ -107,7 +107,7 @@
   font-weight: var(--font-weight-500);
   font-size: var(--text-font-size);
   color: var(--black);
-  letter-spacing: var(--default-letter-spacing);
+  letter-spacing: var(--letter-spacing-2);
   text-transform: uppercase;
   background-color: var(--blue-200);
   margin: var(--margin-5);
@@ -124,7 +124,7 @@
   font-weight: var(--font-weight-500);
   font-size: var(--text-font-size);
   color: var(--black);
-  letter-spacing: var(--default-letter-spacing);
+  letter-spacing: var(--letter-spacing-2);
   text-transform: uppercase;
   background-color: var(--blue-100);
   margin: var(--margin-5);
