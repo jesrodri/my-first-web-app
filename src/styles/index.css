@@ -3,3 +3,5 @@
 @import 'settings/_colors.css';
 @import 'settings/_defaults.css';
 @import 'elements/_body.css';
+@import 'components/_button.css';
+@import 'components/_div.css';
