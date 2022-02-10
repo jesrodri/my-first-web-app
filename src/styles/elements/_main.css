@@ -1,0 +1,7 @@
+main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: var(--height-500);
+  margin-left: var(--margin-50);
+}

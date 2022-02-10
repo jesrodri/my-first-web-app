@@ -1,0 +1,4 @@
+header {
+  display: flex;
+  margin: var(--margin-50) var(--margin-80) var(--margin-10) var(--margin-50);
+}

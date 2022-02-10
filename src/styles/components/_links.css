@@ -1,0 +1,22 @@
+.a__button--main,
+.a__button--apply {
+  -webkit-appearance: button;
+  -moz-appearance: button;
+  appearance: button;
+  text-decoration: none;
+  text-transform: uppercase;
+  color: var(--white);
+  padding: var(--padding-8-25);
+  font-weight: var(--font-weight-700);
+  font-size: var(--text-font-size);
+}
+
+.a__button--main {
+  width: var(--width-135);
+}
+
+.a__button--apply {
+  border: var(--width-3) var(--solid-border) var(--red-700);
+  border-radius: var(--radius-30);
+  width: var(--width-160);
+}
