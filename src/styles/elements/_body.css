@@ -4,6 +4,4 @@ body {
   font-size: var(--text-font-size);
   line-height: var(--default-line-height);
   background-color: var(--gray);
-  background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%), url("../../images/background.jpg");
-  background-size: cover;
 }
