@@ -1,0 +1,13 @@
+button {
+  appearance: none;
+  font-family: var(--font-montserrat);
+  font-weight: var(--font-weight-500);
+  font-size: var(--text-font-size);
+  color: var(--black);
+  letter-spacing: var(--letter-spacing-2);
+  text-transform: uppercase;
+  margin: var(--margin-5);
+  padding: var(--padding-8-25);
+  border: var(--width-3) var(--solid-border);
+  border-radius: var(--radius-30);
+}
