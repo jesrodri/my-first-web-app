@@ -4,11 +4,28 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@200&display=swap" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300;500;700&display=swap" rel="stylesheet" />
     <link rel="stylesheet" href="styles/index.css" />
     <title>Design System</title>
   </head>
   <body>
-    <h1>Design System</h1>
+    <h1>Task 02 - Buttons and inputs</h1>
+    <div class="div--buttons">
+      <button class="button button--primary">Primary</button>
+      <button disabled class="button button--primary">Primary</button>
+    </div>
+    <div class="div--buttons">
+      <button class="button button--secondary">Secondary</button>
+      <button disabled class="button button--secondary">Secondary</button>
+    </div>
+    <div class="div--inputs">
+      <input type="text" class="input regular--input" placeholder="Regular input (:">
+      <input disabled type="text" class="input regular--input" placeholder="Disabled input ):">
+    </div>
+    <div class="div--inputs">
+      <input type="text" class="input special--input" placeholder="Attention here!">
+      <input type="text" class="input valid--input" placeholder="Valid input! (:">
+      <input type="text" class="input invalid--input" placeholder="Invalid input! ):">
+    </div>
   </body>
 </html>

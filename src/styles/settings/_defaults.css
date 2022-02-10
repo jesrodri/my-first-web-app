@@ -1,7 +1,24 @@
 :root {
-  --text-font-size:        15px;
-  --title-font-size:       20px;
-  --default-line-height:   1.25;
+  --text-font-size:          15px;
+  --title-font-size:         20px;
+  --small-font-size:         10px;
+  --default-line-height:     1.25;
+  --letter-spacing-2:        2px;
+  --margin-5:                5px;
+  --margin-10:               10px;
+  --padding-8-25:            8px 25px;
+  --padding-8-15:            8px 15px;
+  --padding-5:               5px;
+  --width-3:                 3px;
+  --width-250:               250px;
 
-  --font-montserrat:       'Montserrat', sans-serif;
+  --solid-border:            solid;
+  --radius-30:               30px;
+
+  --opacity-40:              40%;
+
+  --font-weight-200:         200;
+  --font-weight-500:         500;
+  --font-weight-700:         700;
+  --font-montserrat:         'Montserrat', sans-serif;
 }
