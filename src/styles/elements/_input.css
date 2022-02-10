@@ -1,0 +1,13 @@
+input {
+  appearance: none;
+  font-family: var(--font-montserrat);
+  font-weight: var(--font-weight-700);
+  font-size: var(--small-font-size);
+  color: var(--black);
+  margin: var(--margin-5);
+  padding: var(--padding-8-15);
+  border: var(--width-3) var(--solid-border);
+  border-radius: var(--radius-30);
+  width: var(--width-250);
+  outline: none;
+}
