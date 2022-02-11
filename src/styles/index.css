@@ -4,6 +4,11 @@
 @import 'settings/_defaults.css';
 @import 'elements/_body.css';
 @import 'elements/_h1.css';
+@import 'elements/_header.css';
+@import 'elements/_main.css';
+@import 'elements/_nav.css';
+@import 'components/_body.css';
 @import 'components/_button.css';
 @import 'components/_div.css';
-@import 'components/_input.css'
+@import 'components/_input.css';
+@import 'components/_links.css';

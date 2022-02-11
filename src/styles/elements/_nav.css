@@ -1,0 +1,5 @@
+nav {
+  display: flex;
+  justify-content: flex-end;
+  width: var(--width-1419);
+}

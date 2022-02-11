@@ -8,3 +8,9 @@
   align-items: flex-end;
   margin: var(--margin-10);
 }
+
+.div--nav {
+  display: flex;
+  justify-content: center;
+  width: var(--width-1137);
+}
